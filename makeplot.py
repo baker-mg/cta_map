@@ -34,3 +34,5 @@ for i in range(120):
     print(i)
     time.sleep(30)
 plt.show()
+
+#https://imgur.com/a/70qzF
